@@ -22,10 +22,10 @@
 
 ## About Me
 
-I'm a passionate Python developer who loves turning ideas into robust, scalable software. I work across the full stack — from backend APIs and cloud infrastructure to mobile apps and polished frontends.
+I'm a passionate Python developer who loves turning ideas into robust, scalable software. I work across the full stack  from backend APIs and cloud infrastructure to mobile apps and polished frontends.
 
 - 🔭 Currently building with **Python, Django, Flask & FastAPI**
-- 🌱 Exploring **cloud-native architectures** with Kubernetes & Docker
+- 🌱 Exploring **cloud native architectures** with Kubernetes & Docker
 - ⚡ I care about clean code, good abstractions, and shipping things that work
 - 📫 Find me on GitHub: [@Blackjuiceplug](https://github.com/Blackjuiceplug)
 
