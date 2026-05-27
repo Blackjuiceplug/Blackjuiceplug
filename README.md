@@ -11,7 +11,7 @@
 
 # Mundjele Felix
 
-**`Python Developer · Full-Stack Engineer · Builder`**
+**`Full-Stack Engineer · System Architect · AI Agent Builder`**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Blackjuiceplug-181717?style=flat-square&logo=github)](https://github.com/Blackjuiceplug)
 ![Profile Views](https://komarev.com/ghpvc/?username=Blackjuiceplug&style=flat-square&color=blueviolet)
@@ -20,18 +20,26 @@
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I'm a passionate Python developer who loves turning ideas into robust, scalable software. I work across the full stack  from backend APIs and cloud infrastructure to mobile apps and polished frontends.
+I build at the intersection of robust backend engineering and polished user experience. I specialize in turning complex requirements into scalable software, with a current focus on high-impact infrastructure and autonomous AI agents.
 
-- 🔭 Currently building with **Python, Django, Flask & FastAPI**
-- 🌱 Exploring **cloud native architectures** with Kubernetes & Docker
-- ⚡ I care about clean code, good abstractions, and shipping things that work
-- 📫 Find me on GitHub: [@Blackjuiceplug](https://github.com/Blackjuiceplug)
+- 🛠️ **Engineering:** Architecting scalable APIs and cloud-native systems.
+- 🤖 **AI & Agents:** Exploring LLM orchestration and autonomous coding workflows.
+- 🎨 **Creative:** Bridging the gap between technical feasibility and high-end design.
+- 🚀 **Philosophy:** Clean code, strong abstractions, and a bias toward shipping.
 
 ---
 
-## Tech Stack
+## 🏗️ Active Ventures
+
+- **Urban Mobility:** Architecting a comprehensive taxi booking and fleet management platform (**CityCruise**).
+- **Health-Tech:** Developing Electronic Medical Record (EMR) systems for private healthcare facilities to digitize clinical workflows.
+- **AI Research:** Experimenting with Agentic frameworks for autonomous software development and security analysis.
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,29 +63,18 @@ I'm a passionate Python developer who loves turning ideas into robust, scalable 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases & Caching
+### Databases & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Tools & Design
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -101,5 +98,5 @@ I'm a passionate Python developer who loves turning ideas into robust, scalable 
 ---
 
 <div align="center">
-  <i>Good code is its own best documentation.</i>
+  <i style="font-family: serif;">Good code is its own best documentation.</i>
 </div>
